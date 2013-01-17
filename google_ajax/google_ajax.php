@@ -9,7 +9,6 @@
   Version: 2.5.6
   Author: Anurag Jain
   Author URI: http://coderhub.wordpress.com
-  License: GPLv2 or later
  */
 error_reporting(E_ALL);
 
